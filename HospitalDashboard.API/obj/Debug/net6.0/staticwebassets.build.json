@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KZw/SNpa9wx11mX2KHZp0+pJamiOALn6rGQ9uvQviiM=",
+  "Source": "HospitalDashboard.API",
+  "BasePath": "_content/HospitalDashboard.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
